@@ -1,14 +1,9 @@
 ul {
-  background-color: aliceblue;
-}
-
-ul.unordered-list {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #heading {
   font-size: 60px;
-  border-bottom: 5cm;
   font-weight: 300;
   background-color: #E9DCBE;
 }
@@ -32,6 +27,7 @@ h1 {
 
 .p2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
 }
 
 a:hover {
@@ -39,6 +35,7 @@ a:hover {
 }
 
 body {
+  margin: 50px 20px ;
   line-height: 1.5;
 }
 
