@@ -7,7 +7,7 @@ ul.unordered-list {
 }
 
 #heading {
-  font-size: 50px;
+  font-size: 60px;
   border-bottom: 5cm;
   font-weight: 300;
   background-color: #E9DCBE;
@@ -16,6 +16,7 @@ ul.unordered-list {
 .p1 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 15px;
 }
 
 h1 {
@@ -25,6 +26,8 @@ h1 {
 
 #heading2 {
   font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  font-weight: 530;
 }
 
 .p2 {
@@ -35,4 +38,7 @@ a:hover {
   background-color:aliceblue
 }
 
+body {
+  line-height: 1.5;
+}
 
