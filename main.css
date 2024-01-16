@@ -8,10 +8,13 @@ ul.unordered-list {
 
 #heading {
   font-size: 50px;
+  border-bottom: 5cm;
+  font-weight: 300;
+  background-color: #E9DCBE;
 }
 
 .p1 {
-  font-family: Monaco, monospace;
+  font-family: 'American Typewriter', serif;
   text-align: center;
 }
 
