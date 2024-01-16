@@ -3,13 +3,25 @@ body {
   text-align: justify;
   max-width: 650px;
   margin: auto;
-  background-color: #e3d6b4;
+  background-color: #dcd2ba;
 }
 
 ul {
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 14.5px;
+  line-height: 1.7;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 15px;
+}
+
+ul li::before{
+  content: "🎻";
+  display: inline-block;
+  margin-right: 0.2rem;
+  margin-left: -20px;
 }
 
 #heading {
@@ -32,7 +44,7 @@ h1 {
 
 #heading2 {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 30px;
+  font-size: 40px;
   font-weight: 530;
   
 }
