@@ -14,11 +14,15 @@ ul.unordered-list {
 }
 
 .p1 {
-  font-family: 'American Typewriter', serif;
+  font-family: 'Lucida Console', 'Monaco', monospace;
   text-align: center;
 }
 
 h1 {
   font-family: 'Courier New', Courier, monospace;
   text-align: center;
+}
+
+main {
+  margin: auto;
 }
