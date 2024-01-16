@@ -14,7 +14,7 @@ ul.unordered-list {
 }
 
 .p1 {
-  font-family: Georgia, Times, serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
 }
 
@@ -27,5 +27,12 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
 }
 
+.p2 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:hover {
+  background-color:aliceblue
+}
 
 
