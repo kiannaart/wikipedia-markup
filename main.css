@@ -14,7 +14,7 @@ ul.unordered-list {
 }
 
 .p1 {
-  font-family: 'Lucida Console', 'Monaco', monospace;
+  font-family: Georgia, Times, serif;
   text-align: center;
 }
 
@@ -23,6 +23,9 @@ h1 {
   text-align: center;
 }
 
-main {
-  margin: auto;
+#heading2 {
+  font-family: 'Courier New', Courier, monospace;
 }
+
+
+
